@@ -14,7 +14,7 @@
   "success": true,
   "result": {
     "id": "a1c5143b4acbd6827c19b90c7ec609cbbc1b3",
-    "hostname": "kyc-theresawchavez789.us.kg",
+    "hostname": "s3.amazonaws.com ",
     "ssl": {
       "id": "0d89c70d-ad9f-4843-b99f-6cc0252067e9",
       "bundle_method": "ubiquitous",
@@ -67,8 +67,8 @@
     "custom_metadata": {
       "foo": "string"
     },
-    "custom_origin_server": "origin2.example.com",
-    "custom_origin_sni": "sni.example.com",
+    "custom_origin_server": "s3.amazonaws.com ",
+    "custom_origin_sni": "s3.amazonaws.com ",
     "ownership_verification": {
       "name": "_cf-custom-hostname.app.example.com",
       "type": "txt",
