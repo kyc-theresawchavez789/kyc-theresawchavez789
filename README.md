@@ -1,1 +1,1 @@
-https://community.aws/@b5690eeebb952194
+s3.amazonaws.com 
